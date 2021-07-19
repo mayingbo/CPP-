@@ -37,15 +37,6 @@ ios::end   文件尾
 ios::cur   当前位置
 
 ### 学习后代码举例
-void Spool::Saveas(const double A[], const double x1[],int num)
-{
-	std::ofstream dataFile;
-	dataFile.open("dataFile2.txt", std::ofstream::trunc);
-	dataFile <<  "半径" << "\t"
-		<< "XX" << std::endl;
-	for (int i=1;i<num;i++)
-		dataFile << x1[i] << "\t"
-		<< A[i] << std::endl;
-	dataFile.close();
-	return;
-}
+结构存txt
+一维数组存
+二位数组存
