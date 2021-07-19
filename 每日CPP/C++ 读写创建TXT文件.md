@@ -38,5 +38,5 @@ ios::cur   当前位置
 
 ### 学习后代码举例
 结构存txt
-一维数组存
+[一维数组存](https://github.com/mayingbo/CPP-/blob/main/%E6%AF%8F%E6%97%A5CPP/%E8%BD%AC%E5%AD%98%E4%B8%BE%E4%BE%8B/%E8%BD%AC%E5%AD%98%E6%95%B0%E7%BB%84%E4%B8%BE%E4%BE%8B.cpp)
 二位数组存
